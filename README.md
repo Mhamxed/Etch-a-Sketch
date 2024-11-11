@@ -1,1 +1,1 @@
-# Etch-a-Sketch
+In the project: Etch-a-Sketch i will be creating the Etch-a-Sketch game using vanila Javascript
